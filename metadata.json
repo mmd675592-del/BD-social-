@@ -1,0 +1,8 @@
+{
+  "name": "FaceClone AI",
+  "description": "A feature-rich Facebook clone with a specialized multi-step registration process including selfie capture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
